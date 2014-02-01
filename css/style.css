@@ -22,11 +22,24 @@
 .container {
 	margin-top:40px;
 	margin-right:10px;
-	height:1000px;
+	height:auto;
 }
 .left {
 	text-align:left;
 }
 .right {
 	text-align:right;
+}
+.center {
+	text-align:center;
+}
+.thumb {
+	border:2px solid black;
+	border-radius:3px;
+}
+.blurb {
+	margin-top:25px;
+}
+th {
+	max-height:150px;
 }
